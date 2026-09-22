@@ -80,8 +80,8 @@ Flipkart-Mobile-Selling-Price-Prediction
 ├── README.md
 ├── Mobile_Price_Prediction.ipynb
 └── Flipkart_Mobile_Price.csv
+
+
 ##Conclusion
-
 This project demonstrates the complete Machine Learning workflow, from data preprocessing and exploratory data analysis to model building and evaluation.
-
 The project helped in understanding how regression algorithms can be applied to real-world price prediction problems.
